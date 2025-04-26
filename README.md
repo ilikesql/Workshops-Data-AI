@@ -1,6 +1,6 @@
 # Workshops-Data-AI
 
-Below are the links to the Lab Simulations:
+##Lab Simulations Links
 
 1. [Migrate on-premises SQL server to Azure VM within a failover cluster instance](https://360.articulate.com/review/content/5621ceef-33e6-4f63-904e-e0840eebd213/review)
 
