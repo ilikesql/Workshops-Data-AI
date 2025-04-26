@@ -14,5 +14,6 @@ Below are the links to the Lab Simulations:
 
 ## Hands-on-Labs Links
 
-Stay tuned for upcoming hands-on labs!
+Stay tuned for upcoming hands-on labs links!
+
 
