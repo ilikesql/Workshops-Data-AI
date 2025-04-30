@@ -14,6 +14,7 @@
 
 ## Hands-on-Labs Links
 
-Stay tuned for upcoming hands-on labs links!
+[Explore Hands-on Labs](https://databaseplatformandai.learnondemand.net)
+
 
 
