@@ -14,7 +14,7 @@
 
 ## Hands-on-Labs Links
 
-[Explore Hands-on Labs](https://databaseplatformandai.learnondemand.net)
+[Explore Hands-on Labs](https://databaseplatformandai.learnondemand.net/class/684478)
 
 
 
