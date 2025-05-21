@@ -14,7 +14,9 @@
 
 ## Hands-on-Labs Links
 
-[Explore Hands-on Labs](https://databaseplatformandai.learnondemand.net/class/684478)
+[Explore Hands-on Labs](https://databaseplatformandai.learnondemand.net)
 
 
 
+## Looking for session presentations?
+Check the WorkshopsPDFs folder in this repo
